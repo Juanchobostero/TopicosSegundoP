@@ -8,11 +8,7 @@ import org.junit.Test;
 public class BowlingJuegoTests {
 	private juegoBowling juego;
 
-	@Test
-	public void puedoTirar(){
-		juego.tirar(0);
-	}
-	
+
 	@Test
 	public void anotacion_no_puede_ser_menor_a_cero(){
 		

@@ -7,7 +7,7 @@ public class juegoBowling {
 	}
 	
 	public int puntaje(){
-		return -1;
+		return 0;
 	}
 
 }
